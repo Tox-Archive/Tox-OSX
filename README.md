@@ -1,16 +1,23 @@
 ![tox messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
 
-« Tox for OS X » is the official Tox client for Mac OS X systems. It aim to be simple, beautifully Yosemite-friendly and fast.
+« Tox for OS X » is the official Tox client for Mac OS X systems. It aim to be simple, fast and beautifully Yosemite-friendly.
 
 Todo
 -------
 
-The development has just begun. The TODO will be soonly updated.
+The development has just begun. The TODO will be updated from time to time.
+
+- DESIGNER: Make the text status under the username and surround the avatar by status color
+- DESIGNER: Make conversation tab
+- DESIGNER: Make group chat
+- DESIGNER: Make video/audio call
 
 Contributing
 ------------
 
-We are actively looking for volunteers OS X developers. Here is what you can do to help the app:
+We are actively looking for volunteers OS X developers. If you want to help the project, here is what you can do to help the app development:
+- Implement something from the TODO.
+- Suggest new features.
 
 Screenshots
 -------
