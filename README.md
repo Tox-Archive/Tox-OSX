@@ -25,7 +25,7 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
-![tox-messenger-12](https://cloud.githubusercontent.com/assets/2057765/5236904/68e8ce66-785c-11e4-8ea1-efcb1b637425.png)
+![tox-messenger-12](https://cloud.githubusercontent.com/assets/2057765/5236920/e7ee75b6-785d-11e4-9bd3-3e367b16e43d.png)
 
 Progress so far
 -----------
