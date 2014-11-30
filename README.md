@@ -29,7 +29,7 @@ Mockup
 
 Progress so far
 -----------
-![zachym](https://cloud.githubusercontent.com/assets/2031258/5237287/7a2acd3c-782f-11e4-8feb-884b2a5ec814.png)
+![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
 
 Contact
 -------
