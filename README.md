@@ -1,6 +1,6 @@
 ![tox messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
 
-« Tox for OS X » is the official Tox client for Mac OS X systems. It aim to be simple, fast and beautifully Yosemite-friendly.
+« Tox for OS X » is the official Tox client for Mac OS X systems written in Objective-C. It aim to be secure, simple, fast and beautifully Yosemite-friendly.
 
 Todo
 -------
@@ -22,12 +22,12 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Screenshots
 -------
 
-![tox-messenger-10](https://cloud.githubusercontent.com/assets/2057765/5236655/e67f8920-7846-11e4-8f12-fd4eec623b8e.png)
+![tox-messenger-11](https://cloud.githubusercontent.com/assets/2057765/5236858/f6793cf6-7858-11e4-9e48-92652b5a91de.png)
 
 Contact
 -------
 
-Visit our IRC #tox channel on the [Freenode](https://freenode.net/) network.
+Visit our #tox channel on the [Freenode](https://freenode.net/) IRC network.
 
 License
 -------
