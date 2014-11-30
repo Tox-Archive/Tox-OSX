@@ -7,7 +7,7 @@ Todo
 
 The development has just begun. The TODO will be updated from time to time.
 
-- DESIGNER: Make the text status under the username and surround the avatar by status color
+<del>- DESIGNER: Make the text status under the username and surround the avatar by status color</del>
 - DESIGNER: Make conversations tab
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
