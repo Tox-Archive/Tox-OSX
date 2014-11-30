@@ -674,11 +674,25 @@
                         <subviews>
                             <visualEffectView appearanceType="vibrantDark" fixedFrame="YES" blendingMode="behindWindow" material="appearanceBased" state="followsWindowActiveState" translatesAutoresizingMaskIntoConstraints="NO" id="z4m-dY-5MY">
                                 <rect key="frame" x="0.0" y="0.0" width="166" height="749"/>
+                                <subviews>
+                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tVh-7d-vb1">
+                                        <rect key="frame" x="10" y="725" width="16" height="16"/>
+                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusUnavailable" id="PKO-Jm-Q6G"/>
+                                    </imageView>
+                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7as-1Q-te2">
+                                        <rect key="frame" x="35" y="725" width="16" height="16"/>
+                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusPartiallyAvailable" id="qQC-bQ-xKD"/>
+                                    </imageView>
+                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Tbj-o7-Xd5">
+                                        <rect key="frame" x="60" y="725" width="16" height="16"/>
+                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusAvailable" id="Emp-S7-T3t"/>
+                                    </imageView>
+                                </subviews>
                             </visualEffectView>
-                            <visualEffectView appearanceType="aqua" fixedFrame="YES" blendingMode="behindWindow" material="titlebar" state="active" translatesAutoresizingMaskIntoConstraints="NO" id="GIx-6L-Nea">
+                            <visualEffectView appearanceType="aqua" fixedFrame="YES" blendingMode="behindWindow" material="light" state="active" translatesAutoresizingMaskIntoConstraints="NO" id="GIx-6L-Nea">
                                 <rect key="frame" x="165" y="649" width="1084" height="100"/>
                             </visualEffectView>
-                            <visualEffectView appearanceType="vibrantLight" fixedFrame="YES" blendingMode="behindWindow" material="light" state="inactive" translatesAutoresizingMaskIntoConstraints="NO" id="YvW-Df-UgU">
+                            <visualEffectView appearanceType="vibrantLight" fixedFrame="YES" blendingMode="behindWindow" material="titlebar" state="active" translatesAutoresizingMaskIntoConstraints="NO" id="YvW-Df-UgU">
                                 <rect key="frame" x="165" y="0.0" width="1084" height="650"/>
                             </visualEffectView>
                         </subviews>
@@ -689,4 +703,9 @@
             <point key="canvasLocation" x="1999.5" y="299.5"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="NSStatusAvailable" width="16" height="16"/>
+        <image name="NSStatusPartiallyAvailable" width="16" height="16"/>
+        <image name="NSStatusUnavailable" width="16" height="16"/>
+    </resources>
 </document>
