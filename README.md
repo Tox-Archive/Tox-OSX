@@ -22,10 +22,14 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 - Implement something from the TODO.
 - Suggest new features.
 
-Screenshots
+Mockup
 -------
 
 ![tox-messenger-11](https://cloud.githubusercontent.com/assets/2057765/5236858/f6793cf6-7858-11e4-9e48-92652b5a91de.png)
+
+Progress so far
+-----------
+![wjvgex](https://cloud.githubusercontent.com/assets/2031258/5236895/5f22d94a-7810-11e4-9713-c4500307c34a.png)
 
 Contact
 -------
