@@ -8,9 +8,12 @@ Todo
 The development has just begun. The TODO will be updated from time to time.
 
 - DESIGNER: Make the text status under the username and surround the avatar by status color
-- DESIGNER: Make conversation tab
+- DESIGNER: Make conversations tab
+- DESIGNER: Make profile page
+- DESIGNER: Make search engine
 - DESIGNER: Make group chat
 - DESIGNER: Make video/audio call
+- DESIGNER: Make a lock screen protected with password
 
 Contributing
 ------------
