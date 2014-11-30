@@ -7,7 +7,7 @@ Todo
 
 The development has just begun. The TODO will be updated from time to time.
 
-<del>- DESIGNER: Make the text status under the username and surround the avatar by status color</del>
+- DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
 - DESIGNER: Make conversations tab
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
@@ -25,7 +25,7 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
-![tox-messenger-11](https://cloud.githubusercontent.com/assets/2057765/5236858/f6793cf6-7858-11e4-9e48-92652b5a91de.png)
+![tox-messenger-12](https://cloud.githubusercontent.com/assets/2057765/5236904/68e8ce66-785c-11e4-8ea1-efcb1b637425.png)
 
 Progress so far
 -----------
