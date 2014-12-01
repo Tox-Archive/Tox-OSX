@@ -12,7 +12,8 @@ The development has just begun. The TODO will be updated from time to time.
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
 - DESIGNER: Make group chat
-- DESIGNER: Make video/audio call
+- DESIGNER: Make video call
+- DESIGNER: <del>Make voice call</del>
 - DESIGNER: Make a lock screen protected with password
 
 Contributing
@@ -57,3 +58,5 @@ License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     
 We also want to thank [Pixeden](http://www.pixeden.com/) for allowing us to redistribute their beautiful [iconset](http://www.pixeden.com/icon-fonts/stroke-7-icon-font-set) inside the application.
+
+The font used is [Fira](https://mozilla.github.io/Fira/) by Mozilla Foundation.
