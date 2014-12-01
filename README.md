@@ -26,7 +26,7 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
-![call-window-5](https://cloud.githubusercontent.com/assets/2057765/5251288/6bbc82f2-7994-11e4-92f1-e8a4c5fda787.png)
+![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
 
 <b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
 
