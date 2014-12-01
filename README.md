@@ -25,7 +25,9 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
-![call-window-3](https://cloud.githubusercontent.com/assets/2057765/5241599/976abcca-7921-11e4-8728-aa0aeccfba14.png)
+![call-window-4](https://cloud.githubusercontent.com/assets/2057765/5241854/18a9d62c-7927-11e4-910e-d6663a12d23b.png)
+
+<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
 
 Progress so far
 -----------
