@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		143518BF1A2AE09C00487625 /* tox.icns in Resources */ = {isa = PBXBuildFile; fileRef = 143518BE1A2AE09C00487625 /* tox.icns */; };
 		14803CB91A2AB3290009FCA4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CB81A2AB3290009FCA4 /* AppDelegate.m */; };
 		14803CBB1A2AB3290009FCA4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CBA1A2AB3290009FCA4 /* main.m */; };
 		14803CBE1A2AB3290009FCA4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CBD1A2AB3290009FCA4 /* ViewController.m */; };
@@ -27,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		143518BE1A2AE09C00487625 /* tox.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = tox.icns; sourceTree = "<group>"; };
 		14803CB21A2AB3290009FCA4 /* Tox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14803CB61A2AB3290009FCA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14803CB71A2AB3290009FCA4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -86,7 +84,6 @@
 				14803CBC1A2AB3290009FCA4 /* ViewController.h */,
 				14803CBD1A2AB3290009FCA4 /* ViewController.m */,
 				14803CBF1A2AB3290009FCA4 /* Images.xcassets */,
-				143518BE1A2AE09C00487625 /* tox.icns */,
 				14803CC11A2AB3290009FCA4 /* Main.storyboard */,
 				14803CB51A2AB3290009FCA4 /* Supporting Files */,
 			);
@@ -201,7 +198,6 @@
 			files = (
 				14803CC01A2AB3290009FCA4 /* Images.xcassets in Resources */,
 				14803CC31A2AB3290009FCA4 /* Main.storyboard in Resources */,
-				143518BF1A2AE09C00487625 /* tox.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
