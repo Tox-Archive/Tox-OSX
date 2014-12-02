@@ -27,6 +27,7 @@ Mockup
 -------
 
 ![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
+![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
 <b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
 
