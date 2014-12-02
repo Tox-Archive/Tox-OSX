@@ -12,7 +12,7 @@ The development has just begun. The TODO will be updated from time to time.
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
 - DESIGNER: Make group chat
-- DESIGNER: Make video call
+- DESIGNER: <del>Make video call</del>
 - DESIGNER: <del>Make voice call</del>
 - DESIGNER: Make a lock screen protected with password
 
