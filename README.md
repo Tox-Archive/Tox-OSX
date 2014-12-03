@@ -38,7 +38,13 @@ Progress so far
 Contact
 -------
 
-Visit our #tox channel on the [Freenode](https://freenode.net/) IRC network.
+If you want to talk with other Tox's users, you can join us on the #tox channel on the [Freenode](https://freenode.net/) IRC network.
+
+If you want to help « Tox for OS X », you can join us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network.
+
+If you want to report a bug or make a suggestion about Tox, feel free to create a discussion on our [support platform](https://support.tox.im) or create an [issue right here on GitHub](https://github.com/Tox/Tox-OSX/issues).
+
+If you want to contact Tox support via e-mail, you can use this: [support@tox.im](mailto:support@tox.im)
 
 License
 -------
