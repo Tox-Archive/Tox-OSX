@@ -2,6 +2,19 @@
 
 « Tox for OS X » is the official Tox client written in Objective-C for Mac OS X systems. It aims to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
 
+Mockups
+-------
+
+![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
+![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
+![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
+
+<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
+
+Progress so far
+-----------
+![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
+
 Todo
 -------
 
@@ -16,6 +29,8 @@ The development has just begun. The TODO will be updated from time to time.
 - DESIGNER: <del>Make voice call</del>
 - DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
 - DESIGNER: <del>Make conversations tab</del>
+- DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact pwnsdx if you want it)
+- DEVELOPER: Implement & Follow the [Tox SNS](https://github.com/Tox/Tox-STS/blob/master/STS.md)
 
 Contributing
 ------------
@@ -23,19 +38,6 @@ Contributing
 We are actively looking for volunteers OS X developers. If you want to help the project, here is what you can do to help the app development:
 - Implement something from the TODO.
 - Suggest new features.
-
-Mockup
--------
-
-![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
-![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
-![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
-
-<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
-
-Progress so far
------------
-![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
 
 Contact
 -------
