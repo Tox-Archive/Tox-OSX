@@ -29,8 +29,8 @@ The development has just begun. The TODO will be updated from time to time.
 - DESIGNER: <del>Make voice call</del>
 - DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
 - DESIGNER: <del>Make conversations tab</del>
-- DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact pwnsdx if you want it)
-- DEVELOPER: Implement & Follow the [Tox SNS](https://github.com/Tox/Tox-STS/blob/master/STS.md)
+- DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact @pwnsdx if you want them)
+- DEVELOPER: Implement & Follow the [Tox SNS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
 
 Contributing
 ------------
