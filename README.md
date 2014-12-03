@@ -7,14 +7,14 @@ Todo
 
 The development has just begun. The TODO will be updated from time to time.
 
-- DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
-- DESIGNER: Make conversations tab
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
 - DESIGNER: Make group chat
+- DESIGNER: Make a lock screen protected with password
 - DESIGNER: <del>Make video call</del>
 - DESIGNER: <del>Make voice call</del>
-- DESIGNER: Make a lock screen protected with password
+- DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
+- DESIGNER: <del>Make conversations tab</del>
 
 Contributing
 ------------
@@ -26,6 +26,7 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
+![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
