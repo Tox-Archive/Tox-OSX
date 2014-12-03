@@ -1,15 +1,16 @@
 ![tox messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
 
-« Tox for OS X » is the official Tox client written in Objective-C for Mac OS X systems. It aim to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
+« Tox for OS X » is the official Tox client written in Objective-C for Mac OS X systems. It aims to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
 
 Todo
 -------
 
 The development has just begun. The TODO will be updated from time to time.
 
+- DESIGNER: Make inline medias & file transfert
+- DESIGNER: Make group chat (with Mr. Kaplan)
 - DESIGNER: Make profile page
 - DESIGNER: Make search engine
-- DESIGNER: Make group chat
 - DESIGNER: Make a lock screen protected with password
 - DESIGNER: <del>Make video call</del>
 - DESIGNER: <del>Make voice call</del>
