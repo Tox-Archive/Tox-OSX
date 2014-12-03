@@ -1,4 +1,4 @@
-![Tox-Messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
+![Latest-Header](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Header.jpg)
 
 « Tox for OS X » is the official Tox Messenger client written in Objective-C for Mac OS X systems. It aims to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
 
