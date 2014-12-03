@@ -1,6 +1,6 @@
-![tox messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
+![Tox-Messenger](https://cloud.githubusercontent.com/assets/2057765/5236781/1344dc32-784f-11e4-937a-15a655c79389.jpg)
 
-« Tox for OS X » is the official Tox client written in Objective-C for Mac OS X systems. It aims to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
+« Tox for OS X » is the official Tox Messenger client written in Objective-C for Mac OS X systems. It aims to be bulletproof, decentralised, simple, fast & beautifully Yosemite-friendly.
 
 Mockups
 -------
@@ -9,7 +9,7 @@ Mockups
 ![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
-<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
+<color=red><b>Warning</b></color>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
 
 Progress so far
 -----------
@@ -20,17 +20,17 @@ Todo
 
 The development has just begun. The TODO will be updated from time to time.
 
-- DESIGNER: Make inline medias & file transfert
-- DESIGNER: Make group chat (with Mr. Kaplan)
-- DESIGNER: Make profile page
-- DESIGNER: Make search engine
-- DESIGNER: Make a lock screen protected with password
-- DESIGNER: <del>Make video call</del>
-- DESIGNER: <del>Make voice call</del>
-- DESIGNER: <del>Make the text status under the username and surround the avatar by status color</del>
-- DESIGNER: <del>Make conversations tab</del>
-- DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact @pwnsdx if you want them)
-- DEVELOPER: Implement & Follow the [Tox SNS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
+- [ ] DESIGNER: Make inline medias & file transfert
+- [ ] DESIGNER: Make group chat (with Mr. Kaplan)
+- [ ] DESIGNER: Make profile page
+- [ ] DESIGNER: Make search engine
+- [ ] DESIGNER: Make a lock screen protected with password
+- [ ] DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact @pwnsdx if you want them)
+- [ ] DEVELOPER: Implement & Follow the [Tox SNS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
+- [x] DESIGNER: Make video call
+- [x] DESIGNER: Make voice call
+- [x] DESIGNER: Make the text status under the username and surround the avatar by status color
+- [x] DESIGNER: Make conversations tab
 
 Contributing
 ------------
