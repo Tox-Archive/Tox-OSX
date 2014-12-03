@@ -26,8 +26,8 @@ We are actively looking for volunteers OS X developers. If you want to help the 
 Mockup
 -------
 
-![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Voice-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Voice-Call.png)
+![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
 <b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
