@@ -9,11 +9,16 @@ Mockups
 ![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
-<color=red><b>Warning</b></color>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
+<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
 
 Progress so far
 -----------
 ![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
+
+Download
+------------
+
+« Tox for OS X » is not ready, yet. You still can use Tox by using another client like [qTox](https://wiki.tox.im/QTox) (compatible with Mac, Windows & Linux). You can see the list of [all clients right here](https://wiki.tox.im/Client).
 
 Todo
 -------
