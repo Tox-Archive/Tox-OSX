@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		125EE77C1A30B78500F36081 /* Tox.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Tox.entitlements; sourceTree = "<group>"; };
 		14803CB21A2AB3290009FCA4 /* Tox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14803CB61A2AB3290009FCA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14803CB71A2AB3290009FCA4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		14803CB41A2AB3290009FCA4 /* Tox */ = {
 			isa = PBXGroup;
 			children = (
+				125EE77C1A30B78500F36081 /* Tox.entitlements */,
 				14803CB71A2AB3290009FCA4 /* AppDelegate.h */,
 				14803CB81A2AB3290009FCA4 /* AppDelegate.m */,
 				14803CBC1A2AB3290009FCA4 /* ViewController.h */,
@@ -165,6 +167,11 @@
 				TargetAttributes = {
 					14803CB11A2AB3290009FCA4 = {
 						CreatedOnToolsVersion = 6.1;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 					14803CC71A2AB3290009FCA4 = {
 						CreatedOnToolsVersion = 6.1;
@@ -331,6 +338,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Tox/Tox.entitlements;
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = Tox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -343,6 +351,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Tox/Tox.entitlements;
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = Tox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
