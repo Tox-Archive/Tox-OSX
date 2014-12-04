@@ -9,7 +9,7 @@ Mockups
 ![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
-<b>Warning</b>: The final release may not looks exactly the same as the mockup but we are doing our best to do.
+<b>Warning</b>: The final release may differ from the mockups. We are doing our best to insure the final product is familiar to you.
 
 Progress so far
 -----------
@@ -25,12 +25,12 @@ Todo
 
 The development has just begun. The TODO will be updated from time to time.
 
-- [ ] DESIGNER: Make inline medias & file transfert
+- [ ] DESIGNER: Make inline media & file transfers
 - [ ] DESIGNER: Make group chat (with Mr. Kaplan)
 - [ ] DESIGNER: Make profile page
 - [ ] DESIGNER: Make search engine
 - [ ] DESIGNER: Make a lock screen protected with password
-- [ ] DEVELOPER: Replicate the design at the perfection (PSD are not available yet but any developers can contact @pwnsdx if you want them)
+- [ ] DEVELOPER: Replicate the mockups as closely as possible (PSD files are not available yet but any developers can contact @pwnsdx if you want them)
 - [ ] DEVELOPER: Implement & Follow the [Tox SNS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
 - [x] DESIGNER: Make video call
 - [x] DESIGNER: Make voice call
@@ -45,9 +45,9 @@ We are actively looking for volunteers OS X developers. If you want to help « T
 Contact
 -------
 
-If you want to talk with other Tox's users, you can join us on the #tox channel on the [Freenode](https://freenode.net/) IRC network.
+If you want to talk with other Tox users, you can join us on the #tox channel on the [Freenode](https://freenode.net/) IRC network.
 
-If you want to report a bug or make a suggestion about Tox, feel free to create a discussion on our [support platform](https://support.tox.im) or create an [issue right here on GitHub](https://github.com/Tox/Tox-OSX/issues).
+If you want to report a bug or make a suggestion for Tox, feel free to create a discussion on our [support platform](https://support.tox.im) or create an [issue right here on GitHub](https://github.com/Tox/Tox-OSX/issues).
 
 If you want to contact Tox support via e-mail, you can use this: [support@tox.im](mailto:support@tox.im)
 
