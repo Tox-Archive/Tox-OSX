@@ -37,19 +37,15 @@ The development has just begun. The TODO will be updated from time to time.
 - [x] DESIGNER: Make the text status under the username and surround the avatar by status color
 - [x] DESIGNER: Make conversations tab
 
-Contributing
+Developers needed
 ------------
 
-We are actively looking for volunteers OS X developers. If you want to help the project, here is what you can do to help the app development:
-- Implement something from the TODO.
-- Suggest new features.
+We are actively looking for volunteers OS X developers. If you want to help « Tox for OS X », you can join us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network and contact @NikolaiToryzin
 
 Contact
 -------
 
 If you want to talk with other Tox's users, you can join us on the #tox channel on the [Freenode](https://freenode.net/) IRC network.
-
-If you want to help « Tox for OS X », you can join us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network.
 
 If you want to report a bug or make a suggestion about Tox, feel free to create a discussion on our [support platform](https://support.tox.im) or create an [issue right here on GitHub](https://github.com/Tox/Tox-OSX/issues).
 
