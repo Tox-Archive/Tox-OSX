@@ -15,6 +15,11 @@ Progress so far
 -----------
 ![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
 
+Developers needed
+------------
+
+We are actively looking for volunteers OS X developers. The development is for now suspended as there is no main developer so please, if you want to help Tox for OS X, you can join us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network and contact @NikolaiToryzin or @pwnsdx
+
 Download
 ------------
 
@@ -23,7 +28,7 @@ Download
 Todo
 -------
 
-The development has just begun. The TODO will be updated from time to time.
+The TODO will be updated from time to time.
 
 - [ ] DESIGNER: Make inline media & file transfers
 - [ ] DESIGNER: Make group chat (with Mr. Kaplan)
@@ -36,11 +41,6 @@ The development has just begun. The TODO will be updated from time to time.
 - [x] DESIGNER: Make voice call
 - [x] DESIGNER: Make the text status under the username and surround the avatar by status color
 - [x] DESIGNER: Make conversations tab
-
-Developers needed
-------------
-
-We are actively looking for volunteers OS X developers. If you want to help « Tox for OS X », you can join us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network and contact @NikolaiToryzin
 
 Contact
 -------
