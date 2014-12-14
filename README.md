@@ -36,7 +36,7 @@ The TODO will be updated from time to time.
 - [ ] DESIGNER: Make search engine
 - [ ] DESIGNER: Make a lock screen protected with password
 - [ ] DEVELOPER: Replicate the mockups as closely as possible (PSD files are not available yet but any developers can contact @pwnsdx if you want them)
-- [ ] DEVELOPER: Implement & Follow the [Tox SNS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
+- [ ] DEVELOPER: Implement & Follow the [Tox STS (Single Tox Standard)](https://github.com/Tox/Tox-STS/blob/master/STS.md)
 - [x] DESIGNER: Make video call
 - [x] DESIGNER: Make voice call
 - [x] DESIGNER: Make the text status under the username and surround the avatar by status color
