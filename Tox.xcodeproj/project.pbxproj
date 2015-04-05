@@ -13,6 +13,7 @@
 		120B3ED21AD14AF800FE44CB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120B3ED11AD14AF800FE44CB /* Images.xcassets */; };
 		120B3ED51AD14AF800FE44CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120B3ED31AD14AF800FE44CB /* Main.storyboard */; };
 		120B3EE11AD14AF800FE44CB /* ToxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 120B3EE01AD14AF800FE44CB /* ToxTests.m */; };
+		12E737951AD179C500BA9E75 /* MainSplitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E737941AD179C500BA9E75 /* MainSplitViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,8 @@
 		120B3EDA1AD14AF800FE44CB /* ToxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		120B3EDF1AD14AF800FE44CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		120B3EE01AD14AF800FE44CB /* ToxTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToxTests.m; sourceTree = "<group>"; };
+		12E737931AD179C500BA9E75 /* MainSplitViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainSplitViewController.h; path = ../MainSplitViewController.h; sourceTree = "<group>"; };
+		12E737941AD179C500BA9E75 /* MainSplitViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainSplitViewController.m; path = ../MainSplitViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				120B3ECF1AD14AF800FE44CB /* ViewController.m */,
 				120B3ED11AD14AF800FE44CB /* Images.xcassets */,
 				120B3ED31AD14AF800FE44CB /* Main.storyboard */,
+				12E737931AD179C500BA9E75 /* MainSplitViewController.h */,
+				12E737941AD179C500BA9E75 /* MainSplitViewController.m */,
 				120B3EC71AD14AF800FE44CB /* Supporting Files */,
 			);
 			path = Tox;
@@ -215,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12E737951AD179C500BA9E75 /* MainSplitViewController.m in Sources */,
 				120B3ED01AD14AF800FE44CB /* ViewController.m in Sources */,
 				120B3ECD1AD14AF800FE44CB /* main.m in Sources */,
 				120B3ECB1AD14AF800FE44CB /* AppDelegate.m in Sources */,
@@ -404,6 +410,7 @@
 				120B3EE61AD14AF800FE44CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		120B3EE71AD14AF800FE44CB /* Build configuration list for PBXNativeTarget "ToxTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +419,7 @@
 				120B3EE91AD14AF800FE44CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
