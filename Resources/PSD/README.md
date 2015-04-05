@@ -3,7 +3,7 @@ Please remember that PSD are subject to the GNU General Public License:
 License
 -------
 
-    Copyright (C) 2014 Tox Foundation <support@tox.im>
+    Copyright (C) 2015 Tox Foundation <support@tox.im>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
