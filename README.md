@@ -67,7 +67,7 @@ License
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
     
 We also want to thank [Pixeden](http://www.pixeden.com/) for allowing us to redistribute their beautiful [iconset](http://www.pixeden.com/icon-fonts/stroke-7-icon-font-set) inside the application.
 
