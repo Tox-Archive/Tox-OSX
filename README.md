@@ -11,14 +11,14 @@ Mockups
 
 <b>Warning</b>: The final release may differ from the mockups. We are doing our best to insure the final product is familiar to you.
 
-Progress so far
------------
-![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
-
 Development suspended
 ------------
 
 The development is for the moment suspended as there is no main developer. Please, if you want to help Tox community and you are a Swift / Objective-C developer, you can get in touch with us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network and contact @NikolaiToryzin or @pwnsdx. Many thanks!
+
+Progress so far
+-----------
+![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
 
 Download
 ------------
