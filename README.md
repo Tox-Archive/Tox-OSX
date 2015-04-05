@@ -18,7 +18,7 @@ The development is for the moment suspended as there is no main developer. Pleas
 
 Progress so far
 -----------
-![wrennu](https://cloud.githubusercontent.com/assets/2031258/5237325/fd58d030-7831-11e4-8352-c8712e1f25c2.png)
+![Latest-Real-Preview](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Real-Preview.png)
 
 Download
 ------------
