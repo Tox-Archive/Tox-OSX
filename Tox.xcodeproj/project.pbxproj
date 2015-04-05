@@ -7,49 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14803CB91A2AB3290009FCA4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CB81A2AB3290009FCA4 /* AppDelegate.m */; };
-		14803CBB1A2AB3290009FCA4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CBA1A2AB3290009FCA4 /* main.m */; };
-		14803CBE1A2AB3290009FCA4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CBD1A2AB3290009FCA4 /* ViewController.m */; };
-		14803CC01A2AB3290009FCA4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14803CBF1A2AB3290009FCA4 /* Images.xcassets */; };
-		14803CC31A2AB3290009FCA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14803CC11A2AB3290009FCA4 /* Main.storyboard */; };
-		14803CCF1A2AB3290009FCA4 /* ToxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 14803CCE1A2AB3290009FCA4 /* ToxTests.m */; };
+		120B3ECB1AD14AF800FE44CB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 120B3ECA1AD14AF800FE44CB /* AppDelegate.m */; };
+		120B3ECD1AD14AF800FE44CB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 120B3ECC1AD14AF800FE44CB /* main.m */; };
+		120B3ED01AD14AF800FE44CB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 120B3ECF1AD14AF800FE44CB /* ViewController.m */; };
+		120B3ED21AD14AF800FE44CB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120B3ED11AD14AF800FE44CB /* Images.xcassets */; };
+		120B3ED51AD14AF800FE44CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120B3ED31AD14AF800FE44CB /* Main.storyboard */; };
+		120B3EE11AD14AF800FE44CB /* ToxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 120B3EE01AD14AF800FE44CB /* ToxTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		14803CC91A2AB3290009FCA4 /* PBXContainerItemProxy */ = {
+		120B3EDB1AD14AF800FE44CB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 14803CAA1A2AB3290009FCA4 /* Project object */;
+			containerPortal = 120B3EBC1AD14AF800FE44CB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 14803CB11A2AB3290009FCA4;
+			remoteGlobalIDString = 120B3EC31AD14AF800FE44CB;
 			remoteInfo = Tox;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		125EE77C1A30B78500F36081 /* Tox.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Tox.entitlements; sourceTree = "<group>"; };
-		14803CB21A2AB3290009FCA4 /* Tox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tox.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		14803CB61A2AB3290009FCA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		14803CB71A2AB3290009FCA4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		14803CB81A2AB3290009FCA4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		14803CBA1A2AB3290009FCA4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		14803CBC1A2AB3290009FCA4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		14803CBD1A2AB3290009FCA4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		14803CBF1A2AB3290009FCA4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		14803CC21A2AB3290009FCA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		14803CC81A2AB3290009FCA4 /* ToxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		14803CCD1A2AB3290009FCA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		14803CCE1A2AB3290009FCA4 /* ToxTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToxTests.m; sourceTree = "<group>"; };
+		120B3EC41AD14AF800FE44CB /* Tox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		120B3EC81AD14AF800FE44CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		120B3EC91AD14AF800FE44CB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		120B3ECA1AD14AF800FE44CB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		120B3ECC1AD14AF800FE44CB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		120B3ECE1AD14AF800FE44CB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		120B3ECF1AD14AF800FE44CB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		120B3ED11AD14AF800FE44CB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		120B3ED41AD14AF800FE44CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		120B3EDA1AD14AF800FE44CB /* ToxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		120B3EDF1AD14AF800FE44CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		120B3EE01AD14AF800FE44CB /* ToxTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToxTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		14803CAF1A2AB3290009FCA4 /* Frameworks */ = {
+		120B3EC11AD14AF800FE44CB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14803CC51A2AB3290009FCA4 /* Frameworks */ = {
+		120B3ED71AD14AF800FE44CB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -59,61 +58,60 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		14803CA91A2AB3290009FCA4 = {
+		120B3EBB1AD14AF800FE44CB = {
 			isa = PBXGroup;
 			children = (
-				14803CB41A2AB3290009FCA4 /* Tox */,
-				14803CCB1A2AB3290009FCA4 /* ToxTests */,
-				14803CB31A2AB3290009FCA4 /* Products */,
+				120B3EC61AD14AF800FE44CB /* Tox */,
+				120B3EDD1AD14AF800FE44CB /* ToxTests */,
+				120B3EC51AD14AF800FE44CB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		14803CB31A2AB3290009FCA4 /* Products */ = {
+		120B3EC51AD14AF800FE44CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				14803CB21A2AB3290009FCA4 /* Tox.app */,
-				14803CC81A2AB3290009FCA4 /* ToxTests.xctest */,
+				120B3EC41AD14AF800FE44CB /* Tox.app */,
+				120B3EDA1AD14AF800FE44CB /* ToxTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		14803CB41A2AB3290009FCA4 /* Tox */ = {
+		120B3EC61AD14AF800FE44CB /* Tox */ = {
 			isa = PBXGroup;
 			children = (
-				125EE77C1A30B78500F36081 /* Tox.entitlements */,
-				14803CB71A2AB3290009FCA4 /* AppDelegate.h */,
-				14803CB81A2AB3290009FCA4 /* AppDelegate.m */,
-				14803CBC1A2AB3290009FCA4 /* ViewController.h */,
-				14803CBD1A2AB3290009FCA4 /* ViewController.m */,
-				14803CBF1A2AB3290009FCA4 /* Images.xcassets */,
-				14803CC11A2AB3290009FCA4 /* Main.storyboard */,
-				14803CB51A2AB3290009FCA4 /* Supporting Files */,
+				120B3EC91AD14AF800FE44CB /* AppDelegate.h */,
+				120B3ECA1AD14AF800FE44CB /* AppDelegate.m */,
+				120B3ECE1AD14AF800FE44CB /* ViewController.h */,
+				120B3ECF1AD14AF800FE44CB /* ViewController.m */,
+				120B3ED11AD14AF800FE44CB /* Images.xcassets */,
+				120B3ED31AD14AF800FE44CB /* Main.storyboard */,
+				120B3EC71AD14AF800FE44CB /* Supporting Files */,
 			);
 			path = Tox;
 			sourceTree = "<group>";
 		};
-		14803CB51A2AB3290009FCA4 /* Supporting Files */ = {
+		120B3EC71AD14AF800FE44CB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				14803CB61A2AB3290009FCA4 /* Info.plist */,
-				14803CBA1A2AB3290009FCA4 /* main.m */,
+				120B3EC81AD14AF800FE44CB /* Info.plist */,
+				120B3ECC1AD14AF800FE44CB /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		14803CCB1A2AB3290009FCA4 /* ToxTests */ = {
+		120B3EDD1AD14AF800FE44CB /* ToxTests */ = {
 			isa = PBXGroup;
 			children = (
-				14803CCE1A2AB3290009FCA4 /* ToxTests.m */,
-				14803CCC1A2AB3290009FCA4 /* Supporting Files */,
+				120B3EE01AD14AF800FE44CB /* ToxTests.m */,
+				120B3EDE1AD14AF800FE44CB /* Supporting Files */,
 			);
 			path = ToxTests;
 			sourceTree = "<group>";
 		};
-		14803CCC1A2AB3290009FCA4 /* Supporting Files */ = {
+		120B3EDE1AD14AF800FE44CB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				14803CCD1A2AB3290009FCA4 /* Info.plist */,
+				120B3EDF1AD14AF800FE44CB /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -121,13 +119,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		14803CB11A2AB3290009FCA4 /* Tox */ = {
+		120B3EC31AD14AF800FE44CB /* Tox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14803CD21A2AB3290009FCA4 /* Build configuration list for PBXNativeTarget "Tox" */;
+			buildConfigurationList = 120B3EE41AD14AF800FE44CB /* Build configuration list for PBXNativeTarget "Tox" */;
 			buildPhases = (
-				14803CAE1A2AB3290009FCA4 /* Sources */,
-				14803CAF1A2AB3290009FCA4 /* Frameworks */,
-				14803CB01A2AB3290009FCA4 /* Resources */,
+				120B3EC01AD14AF800FE44CB /* Sources */,
+				120B3EC11AD14AF800FE44CB /* Frameworks */,
+				120B3EC21AD14AF800FE44CB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -135,51 +133,46 @@
 			);
 			name = Tox;
 			productName = Tox;
-			productReference = 14803CB21A2AB3290009FCA4 /* Tox.app */;
+			productReference = 120B3EC41AD14AF800FE44CB /* Tox.app */;
 			productType = "com.apple.product-type.application";
 		};
-		14803CC71A2AB3290009FCA4 /* ToxTests */ = {
+		120B3ED91AD14AF800FE44CB /* ToxTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14803CD51A2AB3290009FCA4 /* Build configuration list for PBXNativeTarget "ToxTests" */;
+			buildConfigurationList = 120B3EE71AD14AF800FE44CB /* Build configuration list for PBXNativeTarget "ToxTests" */;
 			buildPhases = (
-				14803CC41A2AB3290009FCA4 /* Sources */,
-				14803CC51A2AB3290009FCA4 /* Frameworks */,
-				14803CC61A2AB3290009FCA4 /* Resources */,
+				120B3ED61AD14AF800FE44CB /* Sources */,
+				120B3ED71AD14AF800FE44CB /* Frameworks */,
+				120B3ED81AD14AF800FE44CB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				14803CCA1A2AB3290009FCA4 /* PBXTargetDependency */,
+				120B3EDC1AD14AF800FE44CB /* PBXTargetDependency */,
 			);
 			name = ToxTests;
 			productName = ToxTests;
-			productReference = 14803CC81A2AB3290009FCA4 /* ToxTests.xctest */;
+			productReference = 120B3EDA1AD14AF800FE44CB /* ToxTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		14803CAA1A2AB3290009FCA4 /* Project object */ = {
+		120B3EBC1AD14AF800FE44CB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Tox Foundation";
 				TargetAttributes = {
-					14803CB11A2AB3290009FCA4 = {
-						CreatedOnToolsVersion = 6.1;
-						SystemCapabilities = {
-							com.apple.Sandbox = {
-								enabled = 1;
-							};
-						};
+					120B3EC31AD14AF800FE44CB = {
+						CreatedOnToolsVersion = 6.2;
 					};
-					14803CC71A2AB3290009FCA4 = {
-						CreatedOnToolsVersion = 6.1;
-						TestTargetID = 14803CB11A2AB3290009FCA4;
+					120B3ED91AD14AF800FE44CB = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 120B3EC31AD14AF800FE44CB;
 					};
 				};
 			};
-			buildConfigurationList = 14803CAD1A2AB3290009FCA4 /* Build configuration list for PBXProject "Tox" */;
+			buildConfigurationList = 120B3EBF1AD14AF800FE44CB /* Build configuration list for PBXProject "Tox" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -187,28 +180,28 @@
 				en,
 				Base,
 			);
-			mainGroup = 14803CA91A2AB3290009FCA4;
-			productRefGroup = 14803CB31A2AB3290009FCA4 /* Products */;
+			mainGroup = 120B3EBB1AD14AF800FE44CB;
+			productRefGroup = 120B3EC51AD14AF800FE44CB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				14803CB11A2AB3290009FCA4 /* Tox */,
-				14803CC71A2AB3290009FCA4 /* ToxTests */,
+				120B3EC31AD14AF800FE44CB /* Tox */,
+				120B3ED91AD14AF800FE44CB /* ToxTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		14803CB01A2AB3290009FCA4 /* Resources */ = {
+		120B3EC21AD14AF800FE44CB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14803CC01A2AB3290009FCA4 /* Images.xcassets in Resources */,
-				14803CC31A2AB3290009FCA4 /* Main.storyboard in Resources */,
+				120B3ED21AD14AF800FE44CB /* Images.xcassets in Resources */,
+				120B3ED51AD14AF800FE44CB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14803CC61A2AB3290009FCA4 /* Resources */ = {
+		120B3ED81AD14AF800FE44CB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -218,39 +211,39 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		14803CAE1A2AB3290009FCA4 /* Sources */ = {
+		120B3EC01AD14AF800FE44CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14803CBE1A2AB3290009FCA4 /* ViewController.m in Sources */,
-				14803CBB1A2AB3290009FCA4 /* main.m in Sources */,
-				14803CB91A2AB3290009FCA4 /* AppDelegate.m in Sources */,
+				120B3ED01AD14AF800FE44CB /* ViewController.m in Sources */,
+				120B3ECD1AD14AF800FE44CB /* main.m in Sources */,
+				120B3ECB1AD14AF800FE44CB /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14803CC41A2AB3290009FCA4 /* Sources */ = {
+		120B3ED61AD14AF800FE44CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14803CCF1A2AB3290009FCA4 /* ToxTests.m in Sources */,
+				120B3EE11AD14AF800FE44CB /* ToxTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		14803CCA1A2AB3290009FCA4 /* PBXTargetDependency */ = {
+		120B3EDC1AD14AF800FE44CB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 14803CB11A2AB3290009FCA4 /* Tox */;
-			targetProxy = 14803CC91A2AB3290009FCA4 /* PBXContainerItemProxy */;
+			target = 120B3EC31AD14AF800FE44CB /* Tox */;
+			targetProxy = 120B3EDB1AD14AF800FE44CB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		14803CC11A2AB3290009FCA4 /* Main.storyboard */ = {
+		120B3ED31AD14AF800FE44CB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				14803CC21A2AB3290009FCA4 /* Base */,
+				120B3ED41AD14AF800FE44CB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -258,7 +251,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		14803CD01A2AB3290009FCA4 /* Debug */ = {
+		120B3EE21AD14AF800FE44CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -299,7 +292,7 @@
 			};
 			name = Debug;
 		};
-		14803CD11A2AB3290009FCA4 /* Release */ = {
+		120B3EE31AD14AF800FE44CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -317,7 +310,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
-				COPY_PHASE_STRIP = YES;
+				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -334,33 +327,29 @@
 			};
 			name = Release;
 		};
-		14803CD31A2AB3290009FCA4 /* Debug */ = {
+		120B3EE51AD14AF800FE44CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Tox/Tox.entitlements;
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = Tox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		14803CD41A2AB3290009FCA4 /* Release */ = {
+		120B3EE61AD14AF800FE44CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Tox/Tox.entitlements;
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = Tox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		14803CD61A2AB3290009FCA4 /* Debug */ = {
+		120B3EE81AD14AF800FE44CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -380,7 +369,7 @@
 			};
 			name = Debug;
 		};
-		14803CD71A2AB3290009FCA4 /* Release */ = {
+		120B3EE91AD14AF800FE44CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -399,34 +388,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		14803CAD1A2AB3290009FCA4 /* Build configuration list for PBXProject "Tox" */ = {
+		120B3EBF1AD14AF800FE44CB /* Build configuration list for PBXProject "Tox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14803CD01A2AB3290009FCA4 /* Debug */,
-				14803CD11A2AB3290009FCA4 /* Release */,
+				120B3EE21AD14AF800FE44CB /* Debug */,
+				120B3EE31AD14AF800FE44CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14803CD21A2AB3290009FCA4 /* Build configuration list for PBXNativeTarget "Tox" */ = {
+		120B3EE41AD14AF800FE44CB /* Build configuration list for PBXNativeTarget "Tox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14803CD31A2AB3290009FCA4 /* Debug */,
-				14803CD41A2AB3290009FCA4 /* Release */,
+				120B3EE51AD14AF800FE44CB /* Debug */,
+				120B3EE61AD14AF800FE44CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		14803CD51A2AB3290009FCA4 /* Build configuration list for PBXNativeTarget "ToxTests" */ = {
+		120B3EE71AD14AF800FE44CB /* Build configuration list for PBXNativeTarget "ToxTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14803CD61A2AB3290009FCA4 /* Debug */,
-				14803CD71A2AB3290009FCA4 /* Release */,
+				120B3EE81AD14AF800FE44CB /* Debug */,
+				120B3EE91AD14AF800FE44CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 14803CAA1A2AB3290009FCA4 /* Project object */;
+	rootObject = 120B3EBC1AD14AF800FE44CB /* Project object */;
 }

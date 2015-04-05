@@ -2,8 +2,8 @@
 //  ViewController.m
 //  Tox
 //
-//  Created by Sean on 29/11/2014.
-//  Copyright (c) 2014 Tox Foundation. All rights reserved.
+//  Created by Sabri on 05/04/15.
+//  Copyright (c) 2015 Tox Foundation. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -20,6 +20,15 @@
     [super setRepresentedObject:representedObject];
 
     // Update the view, if already loaded.
+}
+
+- (void)viewDidAppear {
+    [super viewDidAppear];
+    
+    // Fix: Status bar
+    self.view.window.titlebarAppearsTransparent = true;
+    self.view.window.movableByWindowBackground = true;
+    self.view.window.styleMask = self.view.window.styleMask | NSFullSizeContentViewWindowMask;
 }
 
 @end

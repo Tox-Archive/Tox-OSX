@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="6250" systemVersion="14C68k" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="14D130a" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="6250"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="6751"/>
     </dependencies>
     <scenes>
         <!--Application-->
@@ -649,12 +649,13 @@
         <!--Window Controller-->
         <scene sceneID="R2V-B0-nI4">
             <objects>
-                <windowController showSeguePresentationStyle="single" id="B8D-0N-5wS" sceneMemberID="viewController">
-                    <window key="window" title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="IQv-IB-iLA">
-                        <windowStyleMask key="styleMask" closable="YES" miniaturizable="YES" resizable="YES" texturedBackground="YES" unifiedTitleAndToolbar="YES"/>
-                        <rect key="contentRect" x="229" y="145" width="1249" height="775"/>
+                <windowController id="B8D-0N-5wS" sceneMemberID="viewController">
+                    <window key="window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="IQv-IB-iLA">
+                        <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
+                        <rect key="contentRect" x="196" y="240" width="1150" height="735"/>
                         <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1027"/>
-                        <value key="minSize" type="size" width="1249" height="775"/>
+                        <value key="minSize" type="size" width="1150" height="735"/>
+                        <value key="maxSize" type="size" width="1150" height="735"/>
                     </window>
                     <connections>
                         <segue destination="XfG-lQ-9wD" kind="relationship" relationship="window.shadowedContentViewController" id="cq2-FE-JQM"/>
@@ -662,50 +663,80 @@
                 </windowController>
                 <customObject id="Oky-zY-oP4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="283.5" y="312.5"/>
+            <point key="canvasLocation" x="75" y="250"/>
         </scene>
-        <!--Tox-->
+        <!--View Controller-->
         <scene sceneID="hIz-AP-VOD">
             <objects>
-                <viewController title="Tox" id="XfG-lQ-9wD" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="XfG-lQ-9wD" customClass="ViewController" sceneMemberID="viewController">
                     <view key="view" id="m2S-Jp-Qdl">
-                        <rect key="frame" x="0.0" y="0.0" width="1249" height="749"/>
+                        <rect key="frame" x="0.0" y="0.0" width="1150" height="735"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
-                            <visualEffectView appearanceType="vibrantDark" fixedFrame="YES" blendingMode="behindWindow" material="appearanceBased" state="followsWindowActiveState" translatesAutoresizingMaskIntoConstraints="NO" id="z4m-dY-5MY">
-                                <rect key="frame" x="0.0" y="0.0" width="166" height="749"/>
-                                <subviews>
-                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tVh-7d-vb1">
-                                        <rect key="frame" x="10" y="725" width="16" height="16"/>
-                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusUnavailable" id="PKO-Jm-Q6G"/>
-                                    </imageView>
-                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7as-1Q-te2">
-                                        <rect key="frame" x="35" y="725" width="16" height="16"/>
-                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusPartiallyAvailable" id="qQC-bQ-xKD"/>
-                                    </imageView>
-                                    <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Tbj-o7-Xd5">
-                                        <rect key="frame" x="60" y="725" width="16" height="16"/>
-                                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSStatusAvailable" id="Emp-S7-T3t"/>
-                                    </imageView>
-                                </subviews>
-                            </visualEffectView>
-                            <visualEffectView appearanceType="aqua" fixedFrame="YES" blendingMode="behindWindow" material="light" state="active" translatesAutoresizingMaskIntoConstraints="NO" id="GIx-6L-Nea">
-                                <rect key="frame" x="165" y="649" width="1084" height="100"/>
-                            </visualEffectView>
-                            <visualEffectView appearanceType="vibrantLight" fixedFrame="YES" blendingMode="behindWindow" material="titlebar" state="active" translatesAutoresizingMaskIntoConstraints="NO" id="YvW-Df-UgU">
-                                <rect key="frame" x="165" y="0.0" width="1084" height="650"/>
-                            </visualEffectView>
+                            <containerView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GnQ-ZX-gBd">
+                                <rect key="frame" x="350" y="0.0" width="800" height="735"/>
+                                <connections>
+                                    <segue destination="LNT-4C-0xz" kind="embed" id="5rq-GE-efw"/>
+                                </connections>
+                            </containerView>
+                            <containerView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="yjm-OZ-4Fd">
+                                <rect key="frame" x="0.0" y="0.0" width="351" height="735"/>
+                                <connections>
+                                    <segue destination="oQi-3W-PDu" kind="embed" id="PhW-lJ-pkF"/>
+                                </connections>
+                            </containerView>
                         </subviews>
                     </view>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1999.5" y="299.5"/>
+            <point key="canvasLocation" x="291" y="1304.5"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="55o-aB-WV8">
+            <objects>
+                <viewController id="LNT-4C-0xz" sceneMemberID="viewController">
+                    <view key="view" id="r6q-p7-8kz">
+                        <rect key="frame" x="0.0" y="0.0" width="800" height="735"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <visualEffectView appearanceType="vibrantLight" fixedFrame="YES" blendingMode="behindWindow" material="appearanceBased" state="followsWindowActiveState" translatesAutoresizingMaskIntoConstraints="NO" id="rLQ-mt-ejc">
+                                <rect key="frame" x="0.0" y="0.0" width="800" height="735"/>
+                                <subviews>
+                                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="t3U-A4-xru">
+                                        <rect key="frame" x="385" y="379" width="31" height="17"/>
+                                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Yolo" id="0su-k4-6ib">
+                                            <font key="font" metaFont="system"/>
+                                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                            <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                        </textFieldCell>
+                                    </textField>
+                                </subviews>
+                            </visualEffectView>
+                        </subviews>
+                    </view>
+                </viewController>
+                <customObject id="ljB-zf-AgY" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1481" y="1079.5"/>
+        </scene>
+        <!--test-->
+        <scene sceneID="Xbw-Ja-mrG">
+            <objects>
+                <viewController title="test" id="oQi-3W-PDu" sceneMemberID="viewController">
+                    <view key="view" id="m7n-q3-ETA">
+                        <rect key="frame" x="0.0" y="0.0" width="350" height="735"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <visualEffectView appearanceType="vibrantDark" fixedFrame="YES" blendingMode="behindWindow" material="appearanceBased" state="followsWindowActiveState" translatesAutoresizingMaskIntoConstraints="NO" id="fCs-xN-gqT">
+                                <rect key="frame" x="0.0" y="0.0" width="400" height="952"/>
+                            </visualEffectView>
+                        </subviews>
+                    </view>
+                </viewController>
+                <customObject id="Fwv-qw-NoX" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-109" y="2222.5"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="NSStatusAvailable" width="16" height="16"/>
-        <image name="NSStatusPartiallyAvailable" width="16" height="16"/>
-        <image name="NSStatusUnavailable" width="16" height="16"/>
-    </resources>
 </document>
