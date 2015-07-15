@@ -55,6 +55,7 @@ License
 -------
 
     Copyright (C) 2015 The Tox Project <https://tox.chat/>
+    Copyright (C) 2015 Tox Foundation <https://tox.im/>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
