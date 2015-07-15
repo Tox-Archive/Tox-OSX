@@ -54,7 +54,7 @@ If you want to contact Tox support via e-mail, you can use this: [support@tox.im
 License
 -------
 
-    Copyright (C) 2015 Tox Foundation <support@tox.im>
+    Copyright (C) 2015 The Tox Project <https://tox.chat/>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
