@@ -9,7 +9,7 @@ Mockups
 ![Latest-Mockup-Chat](https://raw.githubusercontent.com/Tox/Tox-OSX/master/Resources/Latest-Mockup-Chat.png)
 ![Latest-Mockup-Video-Call](https://github.com/Tox/Tox-OSX/raw/master/Resources/Latest-Mockup-Video-Call.png)
 
-<b>Warning</b>: The final release may differ from the mockups. We are doing our best to insure the final product is familiar to you.
+<b>Warning</b>: The final release may differ from the mockups. We are doing our best to ensure the final product is familiar to you.
 
 Development suspended
 ------------
