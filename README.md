@@ -14,7 +14,7 @@ Mockups
 Development suspended
 ------------
 
-The development is for the moment suspended as there is no main developer. Please, if you want to help Tox community and you are a Swift / Objective-C developer, you can get in touch with us on the #tox-dev channel on the [Freenode](https://freenode.net/) IRC network and contact @NikolaiToryzin or @pwnsdx. Many thanks!
+The development is for the moment suspended as there is no main developer. If you want to help Tox community and know well Swift / Objective-C, you can get in touch with us on the #tox-dev channel on [Freenode](https://freenode.net/). Many thanks!
 
 Progress so far
 -----------
